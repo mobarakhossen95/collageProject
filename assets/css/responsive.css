@@ -1,0 +1,205 @@
+/* banner section starts */
+@media (max-width: 576.98px)  { 
+  #banner .bannerCont h4 {
+    font-size: 15px;
+    padding-left: 15px;
+    padding-top: 10px;
+}
+#banner .bannerCont h1 {
+  font-size: 12px;
+  padding-top: 6px;
+  padding-left: 10px;
+  padding-bottom: 4px;
+}
+#banner .bannerCont .bTn {
+  font-size: 18px;
+  padding: 8px 14px;
+  border-radius: 8px;
+  margin-left: 15px;
+}
+#banner .bannerCont .bannerPricees {
+  color: #FFF8EE;
+  font-size: 16px;
+  padding-left: 38px;
+}
+#banner .bannerCont ul li {
+  padding-left: 4px;
+  padding-top: 6px;
+  font-size: 25px;
+}
+.customDots {
+  left: 62%;
+  top: 223px;
+}
+}
+@media (max-width: 767.98px) { 
+  #banner .bannerCont h1 {
+    font-size: 19px;
+    padding-top: 7px;
+    padding-bottom: 24px;
+}
+
+#banner .bannerCont .bTn {
+  padding: 5px 15px;
+  border-radius: 20px;
+  margin-left: 26px;
+  font-size: 20px;
+}
+#banner .bannerCont .bannerPricees {
+  font-size: 14px;
+  padding-left: 5px;
+}
+.customDots {
+  left: 80%;
+  top: 220px;
+}
+ }
+ @media (max-width: 991.98px) { 
+  #banner .bannerCont h1 {
+    font-size: 29px;
+    padding-top: 10px;
+    padding-bottom: 18px;
+}
+#banner .bannerCont .bTn {
+  font-size: 18px;
+  padding: 9px 17px;
+  margin-left: 69px;
+}
+#banner .bannerCont .bannerPricees {
+  font-size: 15px;
+  padding-left: 9px;
+}
+#banner .bannerCont ul li {
+  padding-top: 7px;
+  font-size: 23px;
+}.customDots {
+  left: 85%;
+  top: 220px;
+}
+ }
+ 
+ @media (max-width: 1199.98px) { 
+  #banner .bannerCont h1 {
+    font-size: 41px;
+    padding-bottom: 12px;
+}
+#banner .bannerCont .bTn {
+  font-size: 26px;
+  padding: 6px 14px;
+}
+#banner .bannerCont .bannerPricees {
+  font-size: 19px;
+  padding-left: 16px;
+}
+.customDots {
+  left: 90%;
+  top: 223px;
+}
+  }
+
+/* banner section ends */
+/* popular section starts */
+#popular h5 {
+  padding-top: 9px;
+}
+/* popular section ends */
+
+
+/* rishHelth section starts */
+/* @media (max-width: 400px) { 
+  #rech_helth .rech_cont h4 {
+    font-size: 19px;
+    padding-top: 20px;
+}
+#rech_helth .rech_cont p {
+  font-size: 12px;
+  padding: 8px 0 11px 0;
+}
+#rech_helth .rech_cont p {
+  font-size: 14px;
+}
+#rech_helth .rech_cont-cont p{
+  font-size: 10px;
+}
+#rech_helth .rech_cont-cont .bTn {
+    margin-top: -4px;
+    padding: 7px 21px;
+    font-size: 12px;
+    margin-left: 31px;
+    border-radius: 9px;
+}
+.rech_cont-cont{
+  padding-right: 0;
+}
+.rech_cont-img{
+  padding-left: 10px;
+}
+.rich_img img{
+  margin-left: 50px;
+justify-content: center;
+display: flex;
+flex-wrap: wrap;
+}
+ } */
+
+
+  @media (max-width: 500.98px) {
+  .rich_img img{
+    margin-left: 0px;
+  }
+  .rech_cont-img{
+    padding-left: 10px;
+  }
+  #rech_helth .rech_cont h4 {
+    font-size: 20px;
+    padding-top: 20px;
+}
+#rech_helth .rech_cont-cont p {
+  font-size: 12px;
+}
+#rech_helth .rech_cont-cont .bTn {
+  margin-top: 11px;
+  padding: 7px 21px;
+  font-size: 18px;
+}
+#rech_helth .rech_cont p {
+  font-size: 14px;
+}
+ } 
+
+ @media (max-width: 400px) { 
+  #rech_helth .rech_cont h4 {
+    font-size: 19px;
+    padding-top: 20px;
+}
+#rech_helth .rech_cont p {
+  font-size: 12px;
+  padding: 8px 0 11px 0;
+}
+#rech_helth .rech_cont p {
+  font-size: 14px;
+}
+#rech_helth .rech_cont-cont p{
+  font-size: 10px;
+}
+#rech_helth .rech_cont-cont .bTn {
+    margin-top: -4px;
+    padding: 7px 21px;
+    font-size: 12px;
+    margin-left: 31px;
+    border-radius: 9px;
+}
+.rech_cont-cont{
+  padding-right: 0;
+}
+.rech_cont-img{
+  padding-left: 10px;
+}
+.rich_img img{
+  margin-left: 50px;
+justify-content: center;
+display: flex;
+flex-wrap: wrap;
+}
+ }
+/* rishHelth section ends */
